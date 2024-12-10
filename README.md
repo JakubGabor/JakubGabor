@@ -18,7 +18,6 @@
 <hr>
 
 ### <a href="https://github.com/Jakub-G-Education"><img width="25" src="https://avatars.githubusercontent.com/u/191257758?s=400&u=d47ef3bfb7f377f61c8a1c552570d202eab2ba93&v=4" />&nbsp; Github - Education
-</br>
 *<sup>Education related projects, mainly exams.</sup>*
 </a>
 
