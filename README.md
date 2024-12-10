@@ -6,6 +6,10 @@
   </h1>
   
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=2000&color=EBEBEB&center=true&vCenter=true&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Front+End+Developer+%F0%9F%96%A5%EF%B8%8F;%F0%9F%94%AB+Counter+Strike+Enthusiast+%F0%9F%94%AB;%F0%9F%92%A1Quick+%26+Effective+%40+Gaining+Knowledge%F0%9F%92%A1" alt="Typing SVG" /></a>
+
+ <p>
+   I'm a 27-year-old IT student at Kristiania University, specializing in Frontend and Mobile Development. Graduating in June 2025. Tech enthusiast, passionate about coding, and a dedicated Counter-Strike gamer.
+ </p>
 </div>
 
 
