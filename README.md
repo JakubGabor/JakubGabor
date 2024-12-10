@@ -17,12 +17,15 @@
 </div>
 <hr>
 
+
+https://github.com/Jakub-G-Personal
+
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,swift,figma,mysql,unity,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nodejs,swift,cs,figma,mysql,firebase,unity,github" />
 </p>
 
 <!--
