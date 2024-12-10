@@ -1,5 +1,4 @@
   ![](https://komarev.com/ghpvc/?username=JakubGabor&color=lightgray)
- <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 <div align="center"> 
   <h1>
   Hi there!
@@ -9,9 +8,15 @@
   </h1>
   
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=2000&color=EBEBEB&center=true&vCenter=true&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Front+End+Developer+%F0%9F%96%A5%EF%B8%8F;%F0%9F%94%AB+Counter+Strike+Enthusiast+%F0%9F%94%AB;%F0%9F%92%A1Quick+%26+Effective+%40+Gaining+Knowledge%F0%9F%92%A1" alt="Typing SVG" /></a>
-  
-  
 </div>
+<hr>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,swift,figma,mysql,unity,github" />
+</p>
 
 <!--
 **JakubGabor/JakubGabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
