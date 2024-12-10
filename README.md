@@ -1,5 +1,5 @@
   ![](https://komarev.com/ghpvc/?username=JakubGabor&color=lightgray)
-
+ <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 <div align="center"> 
   <h1>
   Hi there!
