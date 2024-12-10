@@ -1,3 +1,8 @@
+<div align="center"> 
+  <p>You are a visitor number:</p>
+  <img src="https://profile-counter.glitch.me/{JakubGabor}/count.svg" alt="Visitor's Count" />
+</div>
+
 ## Hi there 👋
 
 <!--
