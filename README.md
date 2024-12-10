@@ -12,7 +12,9 @@
  </p>
  <br/>
  <p>
+   <img src="https://skillicons.dev/icons?i=linkedin" />
    Contact me at <a href="https://www.linkedin.com/in/jakub-gabor/">LinkedIn</a>
+   <img src="https://skillicons.dev/icons?i=linkedin" />
  </p>
 </div>
 <hr>
