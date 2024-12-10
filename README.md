@@ -17,7 +17,7 @@
 </div>
 <hr>
 
-### <a href="https://github.com/Jakub-G-Personal"><img width="25" src="https://avatars.githubusercontent.com/u/191258667?s=400&u=3c213b28577ebe260f1e67a39d8cbdae88778621&v=4" />Github Education</a>
+### <a href="https://github.com/Jakub-G-Personal"><img width="25" src="https://avatars.githubusercontent.com/u/191258667?s=400&u=3c213b28577ebe260f1e67a39d8cbdae88778621&v=4" />&nbsp; Github Education</a>
 
 ## 🛠️ Languages and Tools
 
