@@ -12,7 +12,7 @@
  </p>
  <br/>
  <p>
-   Contact me at  <a href="https://www.linkedin.com/in/jakub-gabor/"><img width ="50" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" /></a>
+   Contact me at  <a href="https://www.linkedin.com/in/jakub-gabor/"><img width ="50" src="https://no.m.wikipedia.org/wiki/LinkedIn#/media/Fil%3ALinkedIn_2021.svg" /></a>
  
  </p>
 </div>
