@@ -11,10 +11,10 @@
    I'm a 27-year-old IT student at Kristiania University, specializing in Frontend and Mobile Development. Graduating in June 2025. Tech enthusiast, passionate about coding, and a dedicated Counter-Strike gamer.
  </p>
  <br/>
- <p>
+ <b>
    Contact me at  <a href="https://www.linkedin.com/in/jakub-gabor/"><img height="16" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" /></a>
  
- </p>
+ </b>
 </div>
 <hr>
 
