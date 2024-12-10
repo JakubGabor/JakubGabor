@@ -17,8 +17,7 @@
 </div>
 <hr>
 
-
-https://github.com/Jakub-G-Personal
+## <a href="https://github.com/Jakub-G-Personal">Github Education</a>
 
 ## 🛠️ Languages and Tools
 
